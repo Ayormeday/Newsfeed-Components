@@ -91,7 +91,7 @@ const data = [
     title: 'It started rough but i am gradually getting a hang of things',
     date: 'Sept 4th, 2019',
     firstParagraph: `My time today was more of figuring how things worked with components, although i still had to battle with critically thinking through
-                    a problem and fining ways to solve them. JavaScript has been hitting me hard but the more i fail at it the bigger the love i have for the language.
+                    a problem and finding ways to solve them. JavaScript has been hitting me hard but the more i fail at it the bigger the love i have for the language.
                     i have resolved to keeep pushing in work, using the material in the training kit and trusting the process. I HAVE TO UNDERSTAND JAVASCRIPT!!!`,
 
     secondParagraph: `I have also come to understand that little things make the biggest difference. hodor hodor. Hodor! Hodor hodor, hodor;
