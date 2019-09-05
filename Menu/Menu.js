@@ -45,7 +45,7 @@ function mainMenu (items){
   
   const arrayList = items.forEach((item) => {
     li.append(item)
-  });
+  // }); revisit this 
 
   ul.append(arrayList);
 
